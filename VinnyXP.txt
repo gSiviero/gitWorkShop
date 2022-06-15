@@ -1,7 +1,6 @@
 /*
 *
 * New text file
-*
 */
 Vinh Pham 
 VinnyXP 
